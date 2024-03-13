@@ -1,0 +1,7 @@
+Factura pentru Luci
+----------------------------------
+Produs: ciocolata
+Pret: 200
+Cantitate: 5
+----------------------------------
+Suma totala: 1000

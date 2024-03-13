@@ -1,0 +1,7 @@
+Factura pentru mihai
+----------------------------------
+Produs: masina
+Pret: 15
+Cantitate: 15
+----------------------------------
+Suma totala: 225

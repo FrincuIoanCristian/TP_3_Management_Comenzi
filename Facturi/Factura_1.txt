@@ -1,0 +1,7 @@
+Factura pentru Ionut
+----------------------------------
+Produs: inghetata
+Pret: 2
+Cantitate: 3
+----------------------------------
+Suma totala: 6
